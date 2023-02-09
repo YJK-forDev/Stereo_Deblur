@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Test",
+        "category": "Street",
+        "phase": "Test",
+        "merge_num": 5,
+        "pair_num": 3,
+        "sample": [
+            "001",
+            "002",
+            "003"
+        ]
+    }
+]
